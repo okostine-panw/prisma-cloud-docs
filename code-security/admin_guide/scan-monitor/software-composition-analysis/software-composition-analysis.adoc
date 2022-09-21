@@ -1,7 +1,7 @@
 
 == Software Composition Analysis (SCA)
 
-Software Composition Analysis (SCA) empowers you with information on open source software used in source code that has the potential to expose your organization to critical vulnerabilities, license compliance or legal and compliance issues. On Prisma Cloud, you can view the latest contextualized SCA information from continuous scans across all your integrationhttps://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin-code-security/get-started/connect-your-repositories[integrations of IDE, VCS repositories and CI/CD pipelines.]
+Software Composition Analysis (SCA) empowers you with information on open source software used in source code that has the potential to expose your organization to critical vulnerabilities, license compliance or legal and compliance issues. On Prisma Cloud, you can view the latest contextualized SCA information from continuous scans across all your https://docs.paloaltonetworks.com/prisma/prisma-cloud/prisma-cloud-admin-code-security/get-started/connect-your-repositories[integrations of IDE, VCS repositories and CI/CD pipelines.]
 
 image::sca.png[width=800]
 
